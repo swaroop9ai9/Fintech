@@ -10,7 +10,7 @@ INSTALL_REQUIRES = (
 setuptools.setup(
     name="raptor_finance_api",
     version="0.0.1",
-    author="Swaroop Manchala",
+    author="M V D SATYA SWAROOP",
     author_email="swaroop9ai9@gmail.com",
     description="finance api especially for Indian NSE/BSE Stock Data",
     long_description=long_description,
